@@ -877,3 +877,4 @@ palindrome('taco cat') # True
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkriadmin%2F30-seconds-of-python-code.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkriadmin%2F30-seconds-of-python-code?ref=badge_large)
+!
